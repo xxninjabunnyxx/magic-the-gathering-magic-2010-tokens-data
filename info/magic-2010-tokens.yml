@@ -1,0 +1,16 @@
+---
+object: set
+id: 6d9f49c1-4784-4fd6-a9f1-05e36e25befe
+code: tm10
+name: Magic 2010 Tokens
+uri: https://api.scryfall.com/sets/6d9f49c1-4784-4fd6-a9f1-05e36e25befe
+scryfall_uri: https://scryfall.com/sets/tm10
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atm10&unique=prints
+released_at: '2009-07-17'
+set_type: token
+card_count: 8
+parent_set_code: m10
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/m10.svg?1694404800
